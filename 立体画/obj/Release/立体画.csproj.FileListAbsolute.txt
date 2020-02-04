@@ -1,0 +1,10 @@
+D:\2019 Projects\立体画\立体画\bin\Release\立体画.exe.config
+D:\2019 Projects\立体画\立体画\bin\Release\立体画.exe
+D:\2019 Projects\立体画\立体画\bin\Release\立体画.pdb
+D:\2019 Projects\立体画\立体画\obj\Release\立体画.csprojAssemblyReference.cache
+D:\2019 Projects\立体画\立体画\obj\Release\立体画.Form1.resources
+D:\2019 Projects\立体画\立体画\obj\Release\立体画.Properties.Resources.resources
+D:\2019 Projects\立体画\立体画\obj\Release\立体画.csproj.GenerateResource.cache
+D:\2019 Projects\立体画\立体画\obj\Release\立体画.csproj.CoreCompileInputs.cache
+D:\2019 Projects\立体画\立体画\obj\Release\立体画.exe
+D:\2019 Projects\立体画\立体画\obj\Release\立体画.pdb
